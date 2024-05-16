@@ -1,0 +1,13 @@
+Hola Platzinautas, Aquí les dejo algunos consejos para crear mejores prompts para DALL-E:
+
+1- Sé específico en tus descripciones: en lugar de usar términos vagos o generales, trata de ser lo más específico posible en tus descripciones. Por ejemplo, en lugar de decir "un pájaro", describe el tipo de pájaro (por ejemplo, "un jilguero amarillo con una cresta roja").
+
+2- Usa adjetivos descriptivos: utiliza adjetivos descriptivos para ayudar a DALL-E a entender mejor lo que quieres. Por ejemplo, en lugar de decir "una bicicleta", describe la bicicleta con adjetivos que la describan (por ejemplo, "una bicicleta roja de montaña con llantas gruesas").
+
+3- Proporciona detalles contextuales: para ayudar a DALL-E a comprender mejor el contexto de la imagen que estás tratando de crear, puedes proporcionar detalles adicionales en tu prompt. Por ejemplo, si estás describiendo un paisaje, puedes incluir detalles sobre la hora del día, la temporada, la ubicación geográfica, etc.
+
+4- Sé coherente con tus descripciones: trata de ser coherente en tus descripciones para evitar generar imágenes confusas o sin sentido. Asegúrate de que los objetos que estás describiendo sean coherentes entre sí y se ajusten al contexto de la imagen.
+
+5- Experimenta y prueba diferentes prompts: DALL-E es una herramienta de IA creativa, así que no tengas miedo de experimentar y probar diferentes descripciones para ver qué funciona mejor. Puedes empezar con descripciones simples y luego ir agregando detalles adicionales para crear imágenes más complejas y detalladas.
+
+MUSIC LM

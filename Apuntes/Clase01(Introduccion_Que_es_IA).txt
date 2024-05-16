@@ -1,0 +1,15 @@
+1 - ¿Qué es inteligencia artificial?
+Segun John McCarthy - Premio Turing 1971:
+
+“Es la ciencia e ingeniería de hacer máquinas inteligentes, especialmente programas de computadora inteligentes. Está relacionado con la tarea similar de usar computadoras para comprender la inteligencia humana, pero la IA no tiene que limitarse a los métodos que son biológicamente observables”
+
+Segun ChatGPT:
+
+La capacidad de los sistemas informáticos para realizar tareas que normalmente requerirían la inteligencia humana, como el aprendizaje, la resolución de problemas, el reconocimiento de patrones y la toma de decisiones.
+
+Hay IA en todas partes, Muchos sistema esta potenciado por esta tecnología y existen empresas como OpenAI que desarrollan potentes modelos de IA, como GPT3 y Dall-E 2. Otras empresas que hacen foco en la IA; DeepMind, Meta AI, Googel AI y Hugging Face (Open source)
+
+Un universo de posibilidades: Machine learning, Deep learning, Computo cognitivo, Vision artifical, Redes neuronales, Procesamiento de lenguaje natural
+
+💡 Reto de la curso → Workbook de IA en el dia a dia: Link
+

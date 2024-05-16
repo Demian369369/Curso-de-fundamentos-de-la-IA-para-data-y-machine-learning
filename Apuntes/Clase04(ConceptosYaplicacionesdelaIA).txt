@@ -1,0 +1,8 @@
+La Inteligencia Artificial (IA) es un campo de la informática que se ocupa de crear sistemas y programas que pueden realizar tareas que normalmente requieren inteligencia humana, como la comprensión del lenguaje natural, el razonamiento, la percepción y la toma de decisiones.
+
+El Machine Learning (Aprendizaje Automático) es una técnica de IA que utiliza algoritmos para aprender a partir de datos y mejorar su rendimiento en una tarea específica sin ser programado específicamente para ello. En otras palabras, el Machine Learning permite a un sistema aprender y mejorar por sí solo a medida que recibe más datos.
+
+El Deep Learning (Aprendizaje Profundo) es un tipo de Machine Learning que utiliza redes neuronales artificiales para aprender y resolver problemas complejos, como la clasificación de imágenes, el reconocimiento de voz y el procesamiento del lenguaje natural. Estas redes neuronales están compuestas por capas de nodos que procesan la información y la transfieren a la siguiente capa para su procesamiento adicional. A medida que los datos se introducen en la red, se ajustan los pesos de las conexiones entre los nodos para mejorar el rendimiento del modelo.
+
+En resumen, el Machine Learning es una técnica utilizada en la Inteligencia Artificial para permitir que los sistemas aprendan de los datos y mejoren su rendimiento en una tarea específica, mientras que el Deep Learning es una técnica más avanzada de Machine Learning que utiliza redes neuronales artificiales para resolver problemas complejos.
+

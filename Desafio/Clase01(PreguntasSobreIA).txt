@@ -1,0 +1,31 @@
+ Clase/Tema
+Reto por clase
+Respuestas
+¿Qué es inteligencia artificial?
+IA en tu vida
+
+Instrucciones:
+Escribe 3 casos en los que creas que hay inteligencia artificial en tu entorno.
+.Asistentes de empresas, generalmente las empresas tienen un servicio automático de atención al cliente y ahora usan la IA, generacion de videos(últimamente casi todo el algoritmo usa IA), Mejora de videojuegos, desde mucho tiempo atrás se usan las IA para encontrar errores en los videojuegos
+Inteligencia artificial en nuestro día a día
+¿Para qué me sirve la IA?
+
+Instrucciones:
+Lista 4 casos en los que podrías aprovechar el uso de IA en tu vida y/o tu trabajo. 
+
+Una vez que los tengas busca una noticia o artículo en Google sobre la aplicación de IA en ese caso y comparte lo qué más te sea útil de lo que encontraste. Por ejemplo: ¿cómo utilizar IA para trabajar en línea?
+1.-Para resumir información
+
+2.-Encontrar errores en mi código 
+
+3.-Traducir información
+
+4.-Redactar informacion.
+¿Qué puede y qué no puede hacer IA?
+Herramientas de IA en tu día a día
+
+Instrucciones:
+Lista las herramientas que has usado que usen IA. 
+
+Deja un ejemplo para cada caso: clasificación, predicción, entender y generación.
+ChatGPT 3, Dall-E y gemini

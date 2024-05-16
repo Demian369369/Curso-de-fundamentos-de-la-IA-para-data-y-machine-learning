@@ -1,0 +1,3 @@
+Puede: - Predecir: a traves de datos historicos. - Clasificar - Entender: puede resumir e interpretar textos por ejemplo - Generar contenido a traves de los promps suministrados
+
+No puede: - Crear de cero y ha voluntad. - Innovar - Opinar: mantiene ausencia de criterio.

@@ -1,0 +1,26 @@
+La ciencia de da
+tos es un campo interdisciplinario que utiliza técnicas y métodos estadísticos, computacionales y matemáticos para analizar y extraer conocimiento de datos en bruto. Es una disciplina que se enfoca en la generación de conocimiento a partir de la información, con el objetivo de resolver problemas y tomar decisiones informadas.
+La ciencia de datos implica el proceso de adquisición, almacenamiento, procesamiento, análisis y visualización de datos, con el fin de obtener información útil y relevante para los usuarios. Esta información puede ser utilizada para mejorar procesos, optimizar decisiones, predecir eventos futuros y desarrollar nuevas soluciones para problemas complejos.
+La regresión o predicción numéricas es una técnica de análisis estadístico que se utiliza para predecir o estimar un valor numérico desconocido a partir de un conjunto de datos previamente observados.
+La regresión numérica se basa en el análisis de la relación entre dos o más variables, donde una variable es considerada la variable independiente o predictor, y la otra variable es considerada la variable dependiente o de respuesta. La regresión numérica utiliza estas variables para construir un modelo matemático que permita predecir la variable dependiente a partir de la variable independiente.
+Un dataset (conjunto de datos, en español) es una colección o conjunto de datos organizados y estructurados de manera que puedan ser analizados y procesados por una computadora o por una persona.
+Los datasets pueden ser de diferentes tipos, dependiendo de la naturaleza de los datos que contienen y del objetivo del análisis. Algunos ejemplos de datasets comunes son: registros de ventas, datos de encuestas, datos de sensores, registros médicos, datos de redes sociales, entre otros.
+
+Un dataset típicamente incluye múltiples variables o características, que se refieren a las distintas propiedades o atributos que se miden en los datos. Estas variables pueden ser numéricas o categóricas, y pueden estar relacionadas entre sí de diversas maneras.
+
+"split" se refiere a la división de un conjunto de datos en dos o más subconjuntos, de manera que se puedan utilizar para diferentes propósitos.
+El tipo de split más común es el "train-test split", que consiste en dividir el conjunto de datos en dos subconjuntos: uno para entrenar un modelo de aprendizaje automático y otro para probar el modelo entrenado. Por lo general, el subconjunto de entrenamiento es utilizado para ajustar los parámetros del modelo, mientras que el subconjunto de prueba es utilizado para evaluar el desempeño del modelo en datos que no fueron utilizados en el entrenamiento.
+
+Otro tipo de split común es el "cross-validation split", que implica la división del conjunto de datos en múltiples subconjuntos o "folds". El modelo se entrena y evalúa varias veces, utilizando cada uno de los subconjuntos como conjunto de prueba y el resto como conjunto de entrenamiento. Este método es útil para obtener una evaluación más robusta del modelo, especialmente cuando el tamaño del conjunto de datos es limitado.
+.....................................
+
+¿Qué es Data Science?
+El Data Science es una disciplina que se enfoca en la obtención, limpieza, análisis y visualización de datos con el fin de obtener información valiosa para la toma de decisiones. Esta disciplina combina conocimientos de matemáticas, estadística, programación y dominio de negocio para extraer conocimiento y valor a partir de datos.
+
+Relación con Inteligencia Artificial
+La Inteligencia Artificial (IA) y el Data Science están estrechamente relacionados, pero no son lo mismo. Mientras que la IA se enfoca en crear máquinas capaces de realizar tareas que normalmente requieren inteligencia humana, el Data Science se enfoca en obtener información valiosa a partir de los datos.
+
+Una de las aplicaciones más comunes de la IA es en el aprendizaje automático (Machine Learning), que es una rama del Data Science que utiliza algoritmos para aprender de los datos y mejorar su desempeño con el tiempo.
+
+En resumen, el Data Science es una disciplina que utiliza técnicas de análisis de datos para extraer conocimiento y valor a partir de los mismos, mientras que la IA se enfoca en la creación de máquinas capaces de realizar tareas inteligentes. El Data Science es una herramienta importante para lograr la inteligencia artificial.
+

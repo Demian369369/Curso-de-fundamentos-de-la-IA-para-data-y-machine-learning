@@ -1,0 +1,33 @@
+La Inteligencia Artificial (IA) presenta varios dilemas éticos relacionados con el uso de datos, entre los que se destacan:
+
+Privacidad y seguridad de los datos.
+
+Responsabilidad y transparencia.
+
+Derechos de autor y propiedad intelectual.
+
+Consentimiento informado.
+
+Sesgo de datos
+.......................
+Dilemas éticos en inteligencia artificial
+La inteligencia artificial (IA) se ha convertido en una herramienta poderosa y ampliamente utilizada en diversas industrias y campos, desde la salud hasta la seguridad nacional. Sin embargo, a medida que la IA se vuelve más sofisticada y omnipresente, surgen una serie de dilemas éticos que deben ser abordados. En este artículo, exploraremos algunos de los dilemas éticos más comunes en la IA.
+
+Sesgos y discriminación
+Los algoritmos de IA se entrenan con datos, y si esos datos contienen sesgos y discriminación, la IA también reflejará estos prejuicios. Por ejemplo, si un algoritmo de IA se entrena con datos históricos que contienen prejuicios raciales o de género, el algoritmo también puede mostrar estos prejuicios en sus decisiones. Esto puede llevar a decisiones injustas y discriminación, lo que puede ser perjudicial para los individuos y las comunidades afectadas.
+
+Privacidad y seguridad
+La IA a menudo se utiliza para recopilar, almacenar y analizar grandes cantidades de datos personales. Si estos datos no se manejan adecuadamente, pueden poner en peligro la privacidad y seguridad de las personas. La falta de medidas de seguridad adecuadas o la recopilación de datos sin el consentimiento informado de las personas pueden conducir a la violación de los derechos de privacidad.
+
+Responsabilidad y transparencia
+A medida que la IA se vuelve más sofisticada, se vuelve más difícil rastrear cómo se toman las decisiones y quién es responsable de esas decisiones. La falta de transparencia en el proceso de toma de decisiones puede llevar a la falta de responsabilidad, lo que puede ser peligroso para los individuos y la sociedad en general.
+
+Creación de empleo y automatización
+La IA también puede tener un impacto significativo en el empleo, especialmente en aquellos trabajos que son susceptibles a la automatización. Si bien la automatización puede aumentar la eficiencia y reducir los costos, también puede llevar a la pérdida de empleos y a la creación de una brecha económica. Esto puede tener un impacto significativo en la sociedad, especialmente en aquellos que ya enfrentan desigualdades económicas y sociales.
+
+Conclusiones
+La IA es una herramienta poderosa que puede tener un impacto significativo en la sociedad. Sin embargo, también puede plantear una serie de dilemas éticos que deben abordarse. La eliminación de los sesgos y la discriminación, la protección de la privacidad y la seguridad de los datos personales, la transparencia y la responsabilidad en la toma de decisiones, y el impacto en el empleo y la economía son solo algunos de los dilemas éticos que deben considerarse al implementar la IA. Es importante abordar estos dilemas éticos de manera proactiva y responsable para asegurar que la IA se use de manera justa y ética.
+
+...................................
+Youtube + IA Un ejemplo que no deja de molestarme cada vez mas es youtube. He encontrado evidencia de ingenieria inversa aplicada a la red neuronal que controla las recomendaciones. Esto le da mucho poder al contenido basura sobre la plataforma, ya que se pueden encontrar formas de confundir a las personas con contenido que no es el esperado a partir de una carnada basada en ingenieria inversa de la red neuronal de las recomendaciones. Esto es un problema particularmente grave para videos cortos o shorts, porque se puede controlar la narrativa (heroes y villanos) de fragmentos de videos a partir de los titulos y el contenido asociado a cierto tipo de ideologias. Proximamente, el problema seran videos directamente falsos indistinguibles de la realidad. En este caso, la unica regulacion posible que se me ocurre, es una prueba de humanidad que resulte en una carga de responsabilidad que idealmente no limite la libertad de expresion, pero que limite el alcance de las personas generando contenido basura a partir de bots. Por otro lado, los usuarios deberian tener control sobre algunos parametros de la red neuronal, con el proposito de personalizar y tener poder sobre las recomendaciones que uno recibe.
+

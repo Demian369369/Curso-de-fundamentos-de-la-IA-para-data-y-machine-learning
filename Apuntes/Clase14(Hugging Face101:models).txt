@@ -1,0 +1,13 @@
+Hugging Face
+Hugging Face es una plataforma de código abierto que se centra en el desarrollo de tecnologías de procesamiento del lenguaje natural (NLP, por sus siglas en inglés) y aprendizaje automático. En su sitio web, https://huggingface.co/, se pueden encontrar varios modelos de NLP pre-entrenados que se pueden utilizar para diversas tareas, como la traducción automática, la respuesta a preguntas, la generación de texto y la clasificación de texto.
+
+Los modelos pre-entrenados de Hugging Face se basan en la arquitectura de "Transformers", que es una técnica de aprendizaje profundo ampliamente utilizada para el procesamiento de lenguaje natural. Estos modelos se entrenan en grandes cantidades de datos de texto para mejorar su capacidad de comprensión del lenguaje natural y luego se pueden ajustar o fine-tunear para tareas específicas.
+
+En el sitio web de Hugging Face, se pueden encontrar varios modelos pre-entrenados populares, incluyendo:
+
+BERT (Bidirectional Encoder Representations from Transformers): un modelo pre-entrenado de NLP que se utiliza para una amplia variedad de tareas, como la clasificación de texto, la extracción de entidades y la generación de texto.
+GPT-2 (Generative Pre-trained Transformer 2): un modelo pre-entrenado de generación de texto que se utiliza para la creación de texto automático y la redacción asistida.
+RoBERTa (Robustly Optimized BERT Pretraining Approach): un modelo pre-entrenado de NLP que se basa en la arquitectura de BERT pero con mejoras en la técnica de pre-entrenamiento.
+T5 (Text-to-Text Transfer Transformer): un modelo pre-entrenado de NLP que se utiliza para una amplia variedad de tareas de texto a texto, como la traducción automática, la respuesta a preguntas y la generación de texto.
+Estos modelos pre-entrenados de Hugging Face se pueden utilizar en diversas aplicaciones de NLP y aprendizaje automático, y se pueden ajustar o fine-tunear para tareas específicas. En resumen, Hugging Face es una plataforma de código abierto que ofrece modelos pre-entrenados de NLP avanzados y herramientas de software para el procesamiento del lenguaje natural y el aprendizaje automático.
+
